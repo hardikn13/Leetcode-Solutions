@@ -1,16 +1,13 @@
 class Solution {
 public:
-    int minOperations(vector<int>& nums, vector<int>& numsDivide) {
-        sort(nums.begin(),nums.end());
-        int gcd = numsDivide[0];
-        for (int i = 1; i < numsDivide.size(); i++) {
-            gcd = __gcd(gcd, numsDivide[i]);
-        }
-        for (int i = 0; i < nums.size(); i++) {
-            if (__gcd(gcd, nums[i]) == nums[i]) {
+     int minOperations(vector<int>& A, vector<int>& numsDivide) {
+        int g = numsDivide[0];
+        for (int a: numsDivide)
+            g = gcd(g, a);
+        sort(A.begin(), A.end());
+        for (int i = 0; i < A.size() && A[i] <= g; ++i)
+            if (g % A[i] == 0)
                 return i;
-            }
-        }
         return -1;
     }
 };
