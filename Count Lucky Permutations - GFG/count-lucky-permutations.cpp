@@ -7,8 +7,7 @@ using namespace std;
 // } Driver Code Ends
 // User function Template for C++
 
-
-    class Solution {
+class Solution {
   public:
     long long int luckyPermutations(int N, int M, vector<int> arr,vector<vector<int>> graph) {
 
