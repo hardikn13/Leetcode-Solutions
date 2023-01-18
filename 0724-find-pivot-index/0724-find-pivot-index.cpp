@@ -19,7 +19,7 @@ public:
 };
 
 // Same Approach
-// ----------------
+// -------------
 
 // int pivotIndex(vector<int>& nums) {
 //         int sumR = accumulate(nums.begin(), nums.end(), 0);
