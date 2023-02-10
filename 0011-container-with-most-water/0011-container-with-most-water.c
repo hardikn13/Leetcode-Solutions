@@ -7,8 +7,8 @@ int maxArea(int* height, int heightSize)
         max = fmax(max, cap);        
         if (height[i] > height[j])
             j--;
-        else
-            i++;
+        else{
+            i++;}
     }
     return max;
 }
