@@ -12,9 +12,9 @@ qsort(nums, numsSize, sizeof(int), cmpfunc);
     for(int i=0;i<numsSize-1;i++)
     {
         if(abs(nums[i+1]-nums[i])>max)
-        {
+        {{
             max=abs(nums[i+1]-nums[i]);
-        }
+        }}
     }
     return max;
 }
