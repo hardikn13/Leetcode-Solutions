@@ -16,9 +16,9 @@ public:
                 continue;
             }   
             if(tolower(s[i++]) != tolower(s[z--]))
-            {
+            {{
                 return false;
-            }
+            }}
         }
         return true;
     }
