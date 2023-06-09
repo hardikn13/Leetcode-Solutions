@@ -5,6 +5,9 @@
  *     struct ListNode *next;
  * };
  */
+
+
+
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
 struct ListNode* p=head;
 struct ListNode* q=head;
