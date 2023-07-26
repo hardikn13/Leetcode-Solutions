@@ -20,17 +20,17 @@ public:
                 {
                     return 0;
                 }
-                if(s[i] == ')' && stk.top() == '(' && stk.empty() == 0)
+                if(s[i] == ')' && stk.top() == '(')
                 {
                     stk.pop();
                     z--;
                 }
-                else if(s[i] == ']' && stk.top() == '[' && stk.empty() == 0)
+                else if(s[i] == ']' && stk.top() == '[')
                 {
                     stk.pop();
                     z--;
                 }
-                else if(s[i] == '}' && stk.top() == '{' && stk.empty() == 0)
+                else if(s[i] == '}' && stk.top() == '{')
                 {
                     stk.pop();
                     z--;
