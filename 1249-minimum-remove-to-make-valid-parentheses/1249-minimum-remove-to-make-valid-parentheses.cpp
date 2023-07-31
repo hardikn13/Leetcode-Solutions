@@ -4,7 +4,6 @@ public:
         stack<pair<char, int>> stk;
         int count = 0;
         vector<int> v;
-        string str = "";
         for(int i = 0; i < s.size(); i++)
         {
             if(s[i] == '(')
@@ -13,7 +12,7 @@ public:
             }
             else if(s[i] == ')')
             {
-                if(!stk.empty())
+                if(!stk.empty() && stk.top().first == '(')
                 {
                     stk.pop();
                 }
