@@ -26,7 +26,7 @@ public:
                     if(mp.find(s[i]) != mp.end())
                     {
                         mp[s[i]]++;
-                        if(mp[s[i]]==1)
+                        if(mp[s[i]] == 1)
                         {
                             count++;
                             if(j - i + 1 < minlen)
@@ -41,7 +41,7 @@ public:
             }
             j++;
         }
-        if(minlen==INT_MAX)
+        if(minlen == INT_MAX)
         {
             return "";
         }
