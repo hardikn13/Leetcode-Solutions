@@ -4,24 +4,59 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         
         int n = nums.size();
-        vector<int> ahead(n + 1, 0), curr(n + 1, 0);
+        vector<int> dp(n, 1);
+        int maxi = 1;
         
-        for(int ind = n - 1; ind >= 0; ind--)
+        for(int ind = 0; ind < n; ind++)
         {
-            for(int prev = ind - 1; prev >= -1; prev--)
+            for(int prev = 0; prev < ind; prev++)
             {
-                int len = ahead[prev + 1]; //NOT TAKE
-        
-                if(prev == -1 || nums[ind] > nums[prev])
-                    len = max(1 + ahead[ind + 1], len); //MAX(TAKE, NOT TAKE)
-
-                curr[prev + 1] = len;
+                if(nums[prev] < nums[ind])
+                    dp[ind] = max(dp[ind], 1 + dp[prev]);
             }
-            ahead = curr;
+            maxi = max(maxi, dp[ind]);
         }
-        return ahead[-1 + 1];
+        return maxi;
     }
 };
+
+
+
+
+
+
+
+
+// SPACE OPTIMIZED
+// ---------------
+
+// int lengthOfLIS(vector<int>& nums) {
+        
+//         int n = nums.size();
+//         vector<int> ahead(n + 1, 0), curr(n + 1, 0);
+        
+//         for(int ind = n - 1; ind >= 0; ind--)
+//         {
+//             for(int prev = ind - 1; prev >= -1; prev--)
+//             {
+//                 int len = ahead[prev + 1]; //NOT TAKE
+        
+//                 if(prev == -1 || nums[ind] > nums[prev])
+//                     len = max(1 + ahead[ind + 1], len); //MAX(TAKE, NOT TAKE)
+
+//                 curr[prev + 1] = len;
+//             }
+//             ahead = curr;
+//         }
+//         return ahead[-1 + 1];
+//     }
+
+
+
+
+
+
+
 
 
 
