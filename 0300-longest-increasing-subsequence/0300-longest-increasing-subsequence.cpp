@@ -4,23 +4,58 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         
         int n = nums.size();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        vector<int> ahead(n + 1, 0), curr(n + 1, 0);
         
         for(int ind = n - 1; ind >= 0; ind--)
         {
             for(int prev = ind - 1; prev >= -1; prev--)
             {
-                int len = dp[ind + 1][prev + 1]; //NOT TAKE
+                int len = ahead[prev + 1]; //NOT TAKE
         
                 if(prev == -1 || nums[ind] > nums[prev])
-                    len = max(1 + dp[ind + 1][ind + 1], len); //MAX(TAKE, NOT TAKE)
+                    len = max(1 + ahead[ind + 1], len); //MAX(TAKE, NOT TAKE)
 
-                dp[ind][prev + 1] = len;
+                curr[prev + 1] = len;
             }
+            ahead = curr;
         }
-        return dp[0][-1 + 1];
+        return ahead[-1 + 1];
     }
 };
+
+
+
+
+
+
+// TABULATION
+// ----------
+
+// int lengthOfLIS(vector<int>& nums) {
+        
+//         int n = nums.size();
+//         vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        
+//         for(int ind = n - 1; ind >= 0; ind--)
+//         {
+//             for(int prev = ind - 1; prev >= -1; prev--)
+//             {
+//                 int len = dp[ind + 1][prev + 1]; //NOT TAKE
+        
+//                 if(prev == -1 || nums[ind] > nums[prev])
+//                     len = max(1 + dp[ind + 1][ind + 1], len); //MAX(TAKE, NOT TAKE)
+
+//                 dp[ind][prev + 1] = len;
+//             }
+//         }
+//         return dp[0][-1 + 1];
+//     }
+
+
+
+
+
+
 
 
 
