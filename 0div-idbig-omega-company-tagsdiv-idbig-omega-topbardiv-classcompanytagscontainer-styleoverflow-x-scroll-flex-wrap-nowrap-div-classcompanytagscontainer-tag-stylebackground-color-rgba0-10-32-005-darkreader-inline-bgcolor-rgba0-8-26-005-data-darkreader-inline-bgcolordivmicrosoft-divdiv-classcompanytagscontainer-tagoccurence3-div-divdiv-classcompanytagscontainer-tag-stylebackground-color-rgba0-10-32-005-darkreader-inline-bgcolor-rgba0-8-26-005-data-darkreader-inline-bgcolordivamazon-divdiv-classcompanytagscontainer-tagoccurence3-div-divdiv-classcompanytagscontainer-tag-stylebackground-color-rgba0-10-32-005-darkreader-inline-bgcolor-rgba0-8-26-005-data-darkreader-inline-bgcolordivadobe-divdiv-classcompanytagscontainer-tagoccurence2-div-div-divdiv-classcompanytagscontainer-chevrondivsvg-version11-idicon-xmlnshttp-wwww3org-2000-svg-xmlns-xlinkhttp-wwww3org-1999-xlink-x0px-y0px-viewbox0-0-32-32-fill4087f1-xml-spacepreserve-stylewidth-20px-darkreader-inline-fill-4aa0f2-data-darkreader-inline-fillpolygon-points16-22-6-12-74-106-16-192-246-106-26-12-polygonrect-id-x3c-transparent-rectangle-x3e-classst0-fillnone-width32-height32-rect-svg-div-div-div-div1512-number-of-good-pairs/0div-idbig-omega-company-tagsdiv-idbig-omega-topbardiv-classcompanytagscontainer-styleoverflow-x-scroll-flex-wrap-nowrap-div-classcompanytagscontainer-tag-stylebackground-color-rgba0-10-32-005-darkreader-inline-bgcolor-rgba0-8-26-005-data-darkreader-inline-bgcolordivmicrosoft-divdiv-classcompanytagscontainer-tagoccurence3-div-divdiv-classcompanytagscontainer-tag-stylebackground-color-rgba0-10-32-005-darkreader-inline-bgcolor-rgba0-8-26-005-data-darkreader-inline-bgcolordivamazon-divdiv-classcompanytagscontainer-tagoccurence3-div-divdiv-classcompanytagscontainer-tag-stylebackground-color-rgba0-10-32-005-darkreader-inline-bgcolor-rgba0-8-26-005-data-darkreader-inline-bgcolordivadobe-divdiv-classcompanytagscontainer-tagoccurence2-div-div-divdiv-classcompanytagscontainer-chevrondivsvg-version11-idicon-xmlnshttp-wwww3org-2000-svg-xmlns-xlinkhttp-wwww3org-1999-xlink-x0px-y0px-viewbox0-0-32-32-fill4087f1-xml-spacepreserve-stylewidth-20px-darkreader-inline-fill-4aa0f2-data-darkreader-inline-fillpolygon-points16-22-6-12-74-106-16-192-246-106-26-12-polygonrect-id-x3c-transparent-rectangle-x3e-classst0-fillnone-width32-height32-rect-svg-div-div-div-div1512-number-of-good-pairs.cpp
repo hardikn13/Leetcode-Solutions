@@ -5,14 +5,13 @@ public:
         int n = nums.size();
         int cnt = 0;
         
-        for(int i = 0; i < n - 1; i++)
-        {
-            for(int j = i + 1; j < n; j++)
-            {
-                if(nums[i] == nums[j])
-                    cnt++;
-            }
-        }
+        map<int, int> hash;
+        
+        for(int i = 0; i < n; i++)
+            hash[nums[i]]++;
+        
+        for(auto it : hash)
+            cnt += it.second * (it.second - 1) / 2;
         
         return cnt;
     }
