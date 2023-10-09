@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int firstOccurence(vector<int> nums, int n, int target)
     {
         int low = 0, high = n - 1;
