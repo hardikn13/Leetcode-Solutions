@@ -12,17 +12,20 @@ public:
         for (int i = 1; i <= n; i++)
             dp[1][i] = i;
 
-        for (int i = 2; i <= eggs; i++) {
-            for (int j = 2; j <= n; j++) {
-                dp[i][j] = INT_MAX;
-                for (int k = 1; k <= j; k++) {
-                    int breaks = dp[i - 1][k - 1];
-                    int notBreak = dp[i][j - k];
+            for (int j = 2; j <= n; j++)
+            {
+                dp[eggs][j] = INT_MAX;
+                for (int k = 1; k <= j; k++)
+                {
+                    if(eggs == 1)
+                        dp[eggs][j] = n;
+                    
+                    int breaks = dp[eggs - 1][k - 1];
+                    int notBreak = dp[eggs][j - k];
                     int maxDrops = 1 + max(breaks, notBreak);
-                    dp[i][j] = min(dp[i][j], maxDrops);
+                    dp[eggs][j] = min(dp[eggs][j], maxDrops);
                 }
             }
-        }
 
         return dp[eggs][n];
     }
