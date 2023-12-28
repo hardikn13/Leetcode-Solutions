@@ -1,16 +1,25 @@
 class Solution {
 public:
-    int numTrees(int n) {
-        
-        if(n <= 1)
+    int f(int ind, int ans, vector<int> &dp)
+    {
+        if(ind <= 1)
             return 1;
         
-        int ans = 0;
-        for(int i = 1; i <= n; i++)
+        if(dp[ind] != -1)
+            return dp[ind];
+        
+        for(int i = 1; i <= ind; i++)
         {
-            ans += numTrees(i - 1) * numTrees(n - i);
+            ans += f(i - 1, ans, dp) * f(ind - i, ans, dp);
         }
         
-        return ans;
+        return dp[ind] = ans;
+    }
+    
+    int numTrees(int n) {
+        
+        vector<int> dp(n + 1, -1);
+        int ans = 0;
+        return f(n, ans, dp);
     }
 };
