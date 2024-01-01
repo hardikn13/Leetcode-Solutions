@@ -3,24 +3,26 @@ public:
     int maxSumDivThree(vector<int>& nums) {
         
         int n = nums.size(), remainder = 0;
-        vector<vector<int>> dp(n + 1, vector<int> (4, 0));
+        vector<int> prev(3, 0), curr(3, 0);
         
-        dp[0][0] = 0;
-        dp[0][1] = INT_MIN;
-        dp[0][2] = INT_MIN;
+        prev[0] = 0;
+        prev[1] = INT_MIN;
+        prev[2] = INT_MIN;
 
         for(int ind = 1; ind <= n; ind++)
         {
             for(int remainder = 0; remainder < 3; remainder++)
             {
-                int notTake = dp[ind - 1][remainder];
-                int take = nums[ind - 1] + dp[ind - 1][(remainder + nums[ind - 1]) % 3];
+                int notTake = prev[remainder];
+                int take = nums[ind - 1] + prev[(remainder + nums[ind - 1]) % 3];
 
-                dp[ind][remainder] = max(take, notTake);
+                curr[remainder] = max(take, notTake);
             }
+            
+            prev = curr;
         }
         
-        return dp[n][0];
+        return prev[0];
     }
 };
 
@@ -87,4 +89,36 @@ public:
 //         int n = nums.size(), remainder = 0;
 //         vector<vector<int>> dp(n + 1, vector<int> (4, -1));
 //         return f(n - 1, nums, remainder, dp);
+//     }
+
+
+
+
+
+
+
+// TABULATION
+// ----------
+
+// int maxSumDivThree(vector<int>& nums) {
+        
+//         int n = nums.size(), remainder = 0;
+//         vector<vector<int>> dp(n + 1, vector<int> (4, 0));
+        
+//         dp[0][0] = 0;
+//         dp[0][1] = INT_MIN;
+//         dp[0][2] = INT_MIN;
+
+//         for(int ind = 1; ind <= n; ind++)
+//         {
+//             for(int remainder = 0; remainder < 3; remainder++)
+//             {
+//                 int notTake = dp[ind - 1][remainder];
+//                 int take = nums[ind - 1] + dp[ind - 1][(remainder + nums[ind - 1]) % 3];
+
+//                 dp[ind][remainder] = max(take, notTake);
+//             }
+//         }
+        
+//         return dp[n][0];
 //     }
