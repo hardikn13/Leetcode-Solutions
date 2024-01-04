@@ -15,18 +15,18 @@ public:
         {
             while(it.second > 0)
             {
-            if(it.second == 1)
-                return -1;
-            else if(it.second == 2 || it.second == 4)
-            {
-                it.second -= 2;
-                ans++;
-            }
-            else
-            {
-                it.second -= 3;
-                ans++;
-            }
+                if(it.second == 1)
+                    return -1;
+                else if(it.second == 2 || it.second == 4)
+                {
+                    it.second -= 2;
+                    ans++;
+                }
+                else
+                {
+                    it.second -= 3;
+                    ans++;
+                }
             }
         }
         
