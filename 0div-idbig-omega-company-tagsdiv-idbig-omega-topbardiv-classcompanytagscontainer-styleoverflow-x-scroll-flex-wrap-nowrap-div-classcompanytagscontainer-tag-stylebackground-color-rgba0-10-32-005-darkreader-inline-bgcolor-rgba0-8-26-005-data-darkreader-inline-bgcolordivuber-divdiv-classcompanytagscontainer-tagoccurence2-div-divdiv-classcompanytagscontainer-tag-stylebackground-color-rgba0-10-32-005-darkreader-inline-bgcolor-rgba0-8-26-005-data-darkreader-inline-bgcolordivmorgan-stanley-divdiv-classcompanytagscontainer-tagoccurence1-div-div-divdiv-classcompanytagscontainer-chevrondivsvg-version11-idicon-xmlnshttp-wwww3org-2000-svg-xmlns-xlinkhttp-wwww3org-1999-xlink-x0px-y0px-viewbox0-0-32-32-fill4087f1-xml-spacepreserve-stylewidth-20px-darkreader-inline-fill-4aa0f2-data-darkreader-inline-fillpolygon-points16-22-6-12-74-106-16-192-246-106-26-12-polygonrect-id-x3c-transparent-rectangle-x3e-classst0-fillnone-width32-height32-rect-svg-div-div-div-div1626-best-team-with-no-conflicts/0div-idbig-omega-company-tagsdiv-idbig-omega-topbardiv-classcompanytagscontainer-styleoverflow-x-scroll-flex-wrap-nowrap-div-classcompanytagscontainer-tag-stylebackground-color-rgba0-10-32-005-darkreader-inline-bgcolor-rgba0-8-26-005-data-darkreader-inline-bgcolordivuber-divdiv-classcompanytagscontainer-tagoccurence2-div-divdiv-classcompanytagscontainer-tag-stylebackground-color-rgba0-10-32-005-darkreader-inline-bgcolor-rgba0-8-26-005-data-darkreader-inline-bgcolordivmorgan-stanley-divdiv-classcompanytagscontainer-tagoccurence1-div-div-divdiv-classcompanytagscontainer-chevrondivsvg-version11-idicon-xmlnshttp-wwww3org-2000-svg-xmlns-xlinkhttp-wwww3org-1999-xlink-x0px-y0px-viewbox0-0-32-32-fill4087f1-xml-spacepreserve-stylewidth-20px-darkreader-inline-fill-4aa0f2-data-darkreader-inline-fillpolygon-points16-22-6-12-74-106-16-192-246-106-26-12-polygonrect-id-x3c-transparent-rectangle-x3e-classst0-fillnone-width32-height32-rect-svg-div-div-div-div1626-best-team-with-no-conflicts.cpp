@@ -11,22 +11,23 @@ public:
         }
         sort(v.begin(), v.end());
         
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        vector<int> ahead(n + 1, 0), curr(n + 1, 0);
         
         for(int ind = n - 1; ind >= 0; ind--)
         {
             for(int prevInd = ind - 1; prevInd >= -1; prevInd--)
             {
-                int notTake = dp[ind + 1][prevInd + 1];
+                int notTake =ahead[prevInd + 1];
                 int take = 0;
                 if(prevInd == -1 || v[ind].second >= v[prevInd].second)
-                    take = v[ind].second + dp[ind + 1][ind + 1];
+                    take = v[ind].second + ahead[ind + 1];
 
-                dp[ind][prevInd + 1] = max(take, notTake);
+                curr[prevInd + 1] = max(take, notTake);
             }
+            ahead = curr;
         }
         
-        return dp[0][-1 + 1];
+        return ahead[-1 + 1];
     }
 };
 
@@ -68,4 +69,42 @@ public:
 //         vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
         
 //         return f(0, -1, v, dp);
+//     }
+
+
+
+
+
+
+
+// TABULATION
+// ----------
+
+// int bestTeamScore(vector<int>& scores, vector<int>& ages) {
+        
+//         int n = scores.size();
+//         vector<pair<int, int>> v;
+        
+//         for(int i = 0; i < n; i++)
+//         {
+//             v.push_back({ages[i], scores[i]});
+//         }
+//         sort(v.begin(), v.end());
+        
+//         vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        
+//         for(int ind = n - 1; ind >= 0; ind--)
+//         {
+//             for(int prevInd = ind - 1; prevInd >= -1; prevInd--)
+//             {
+//                 int notTake = dp[ind + 1][prevInd + 1];
+//                 int take = 0;
+//                 if(prevInd == -1 || v[ind].second >= v[prevInd].second)
+//                     take = v[ind].second + dp[ind + 1][ind + 1];
+
+//                 dp[ind][prevInd + 1] = max(take, notTake);
+//             }
+//         }
+        
+//         return dp[0][-1 + 1];
 //     }
