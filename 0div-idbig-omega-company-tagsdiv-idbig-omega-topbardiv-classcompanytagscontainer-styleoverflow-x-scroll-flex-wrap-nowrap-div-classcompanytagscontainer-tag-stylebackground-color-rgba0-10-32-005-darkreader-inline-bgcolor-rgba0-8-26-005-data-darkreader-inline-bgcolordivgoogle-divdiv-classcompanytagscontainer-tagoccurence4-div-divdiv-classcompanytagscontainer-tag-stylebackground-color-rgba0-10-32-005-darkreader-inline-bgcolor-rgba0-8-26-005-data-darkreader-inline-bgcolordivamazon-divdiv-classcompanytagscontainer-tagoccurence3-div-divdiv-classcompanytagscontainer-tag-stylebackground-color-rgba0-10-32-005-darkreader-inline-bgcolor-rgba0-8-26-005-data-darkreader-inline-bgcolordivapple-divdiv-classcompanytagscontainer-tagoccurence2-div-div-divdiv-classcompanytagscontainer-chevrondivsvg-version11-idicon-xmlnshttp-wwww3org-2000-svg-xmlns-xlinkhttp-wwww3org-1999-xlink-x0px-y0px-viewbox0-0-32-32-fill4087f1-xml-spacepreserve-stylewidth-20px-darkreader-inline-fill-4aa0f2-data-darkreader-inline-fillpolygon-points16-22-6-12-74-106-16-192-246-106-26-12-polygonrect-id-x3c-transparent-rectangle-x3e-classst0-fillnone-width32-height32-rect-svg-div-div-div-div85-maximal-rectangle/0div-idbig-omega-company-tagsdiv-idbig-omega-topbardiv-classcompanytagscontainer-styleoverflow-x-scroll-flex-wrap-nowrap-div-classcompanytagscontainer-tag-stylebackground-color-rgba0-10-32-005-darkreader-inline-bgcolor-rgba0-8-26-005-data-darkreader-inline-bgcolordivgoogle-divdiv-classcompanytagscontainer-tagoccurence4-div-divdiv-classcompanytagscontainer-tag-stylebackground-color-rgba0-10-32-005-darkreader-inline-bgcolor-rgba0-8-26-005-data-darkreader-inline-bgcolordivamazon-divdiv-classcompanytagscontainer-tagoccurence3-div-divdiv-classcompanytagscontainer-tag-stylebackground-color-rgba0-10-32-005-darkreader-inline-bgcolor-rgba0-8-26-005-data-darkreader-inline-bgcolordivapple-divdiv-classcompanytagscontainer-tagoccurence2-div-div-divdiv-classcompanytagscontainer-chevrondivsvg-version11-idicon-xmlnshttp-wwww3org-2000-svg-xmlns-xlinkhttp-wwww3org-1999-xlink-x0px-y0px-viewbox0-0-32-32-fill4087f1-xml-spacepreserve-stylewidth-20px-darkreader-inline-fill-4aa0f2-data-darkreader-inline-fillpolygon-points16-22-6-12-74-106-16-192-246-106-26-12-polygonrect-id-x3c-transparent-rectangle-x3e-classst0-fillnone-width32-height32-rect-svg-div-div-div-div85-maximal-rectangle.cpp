@@ -1,6 +1,5 @@
-class Solution {
-    
-    private:
+class Solution {  
+private:
     
     vector<int> nextSmallerElement(vector<int> arr, int n)
         {
