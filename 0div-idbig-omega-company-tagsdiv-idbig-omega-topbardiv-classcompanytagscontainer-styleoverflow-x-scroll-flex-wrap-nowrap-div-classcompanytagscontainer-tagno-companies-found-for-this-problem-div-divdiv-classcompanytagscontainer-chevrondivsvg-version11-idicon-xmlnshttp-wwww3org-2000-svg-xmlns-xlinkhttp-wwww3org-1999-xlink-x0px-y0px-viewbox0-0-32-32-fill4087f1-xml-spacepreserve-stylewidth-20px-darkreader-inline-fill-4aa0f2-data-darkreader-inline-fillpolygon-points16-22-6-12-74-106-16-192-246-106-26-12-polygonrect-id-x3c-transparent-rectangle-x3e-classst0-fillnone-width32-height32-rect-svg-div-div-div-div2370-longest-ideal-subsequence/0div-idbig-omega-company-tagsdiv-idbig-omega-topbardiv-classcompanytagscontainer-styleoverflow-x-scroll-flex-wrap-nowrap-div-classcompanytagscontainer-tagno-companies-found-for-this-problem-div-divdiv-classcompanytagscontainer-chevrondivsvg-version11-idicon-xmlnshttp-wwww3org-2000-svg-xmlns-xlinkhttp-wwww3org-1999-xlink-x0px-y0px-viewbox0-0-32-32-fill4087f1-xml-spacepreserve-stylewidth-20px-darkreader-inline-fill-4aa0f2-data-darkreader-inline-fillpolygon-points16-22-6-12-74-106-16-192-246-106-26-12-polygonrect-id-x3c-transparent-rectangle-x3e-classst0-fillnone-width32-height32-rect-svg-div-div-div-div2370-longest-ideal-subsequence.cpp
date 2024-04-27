@@ -1,24 +1,56 @@
 class Solution {
 public:
     int longestIdealString(string s, int k) {
-        int N = size(s);
+        int n = s.size();
         vector<int> dp(26, 0);
-
-        int res = 0;
-        // Updating dp with the i-th character
-        for (int i = 0; i < N; i++) {
-            int curr = s[i] - 'a';
-            int best = 0;
-            for (int prev = 0; prev < 26; prev++) {
-                if (abs(prev - curr) <= k) {
-                    best = max(best, dp[prev]);
-                }
+        int ans = 0;
+        
+        for(int ind = 0; ind < n; ind++)
+        {
+            int maxi = 0;
+            for(char last = 'a'; last <= 'z'; last++)
+            {
+                if(abs(last - s[ind]) <= k)
+                    maxi = max(maxi, 1 + dp[last - 'a']);
             }
-
-            // Appending s[i] to the previous longest ideal subsequence allowed
-            dp[curr] = max(dp[curr], best + 1);
-            res = max(res, dp[curr]);
+            
+            dp[s[ind] - 'a'] = maxi;
+            ans = max(ans, maxi);
         }
-        return res;
+        
+        return ans;
     }
 };
+
+
+
+
+
+// MEMOIZATION
+// -----------
+
+// class Solution {
+// public:
+//     int f(int ind, char last, string s, int k, vector<vector<int>> &dp)
+//     {
+//         if(ind == s.size())
+//             return 0;
+        
+//         if(dp[ind][last - 'a'] != -1)
+//             return dp[ind][last - 'a'];
+        
+//         int notTake = f(ind + 1, last, s, k, dp);
+        
+//         int take = 0;
+//         if(last == '{' || abs(last - s[ind]) <= k)
+//             take = 1 + f(ind + 1, s[ind], s, k, dp);
+        
+//         return dp[ind][last - 'a'] = max(take, notTake);
+//     }
+    
+//     int longestIdealString(string s, int k) {
+//         int n = s.size();
+//         vector<vector<int>> dp(n, vector<int>(27, -1));
+//         return f(0, '{', s, k, dp);
+//     }
+// };
