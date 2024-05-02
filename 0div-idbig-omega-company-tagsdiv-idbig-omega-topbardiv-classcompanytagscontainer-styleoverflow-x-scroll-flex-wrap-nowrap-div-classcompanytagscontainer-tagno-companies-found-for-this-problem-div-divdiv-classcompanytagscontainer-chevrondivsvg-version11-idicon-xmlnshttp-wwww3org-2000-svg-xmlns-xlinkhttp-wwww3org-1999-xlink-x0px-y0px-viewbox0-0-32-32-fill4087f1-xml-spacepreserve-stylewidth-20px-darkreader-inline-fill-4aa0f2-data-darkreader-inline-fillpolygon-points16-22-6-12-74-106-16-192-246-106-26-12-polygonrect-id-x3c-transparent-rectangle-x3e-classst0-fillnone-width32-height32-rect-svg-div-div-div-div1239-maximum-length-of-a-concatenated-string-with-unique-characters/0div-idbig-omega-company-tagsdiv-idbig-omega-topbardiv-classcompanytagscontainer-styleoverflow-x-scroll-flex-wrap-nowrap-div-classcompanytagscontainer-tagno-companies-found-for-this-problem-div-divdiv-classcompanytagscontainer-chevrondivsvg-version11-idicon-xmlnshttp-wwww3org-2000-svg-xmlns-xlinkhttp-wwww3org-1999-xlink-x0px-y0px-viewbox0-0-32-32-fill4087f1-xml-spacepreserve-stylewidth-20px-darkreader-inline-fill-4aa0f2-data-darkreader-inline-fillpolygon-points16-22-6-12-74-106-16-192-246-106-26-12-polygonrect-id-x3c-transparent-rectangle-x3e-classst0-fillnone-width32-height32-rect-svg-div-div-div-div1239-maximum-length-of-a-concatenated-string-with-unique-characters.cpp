@@ -1,47 +1,37 @@
 class Solution {
 public:
-    bool compare(string s, vector<int> hash)
+    void f(int ind, int temp, int &ans, vector<int> &uniqueChar)
     {
-        vector<int> check(26, 0);
-        for(int i = 0; i < s.size(); i++)
+        ans = max(ans, __builtin_popcount(temp));
+        
+        for(int i = ind; i < uniqueChar.size(); i++)
         {
-            if(check[s[i] - 'a'] == 1)
-                return false;
-            check[s[i] - 'a'] = 1;
-        }
-        
-        for(int i = 0; i < s.size(); i++)
-            if(hash[s[i] - 'a'] == 1)
-                return false;
-        
-        return true;
-    }
-    
-    int f(int ind, vector<int> &hash, vector<string>& arr, int len)
-    {
-        if(ind == arr.size())
-            return len;
-        
-        if(compare(arr[ind], hash) == false)
-            return f(ind + 1, hash, arr, len);
-        else
-        {
-            for(int i = 0; i < arr[ind].size(); i++)
-                hash[arr[ind][i] - 'a'] = 1;
-            len += arr[ind].size();
-            int p1 = f(ind + 1, hash, arr, len);
-            
-            for(int i = 0; i < arr[ind].size(); i++)
-                hash[arr[ind][i] - 'a'] = 0;
-            len -= arr[ind].size();
-            int p2 = f(ind + 1, hash, arr, len);
-            
-            return max(p1, p2);
+            if((temp & uniqueChar[i]) == 0)
+                f(i + 1, temp | uniqueChar[i], ans, uniqueChar);
         }
     }
     
     int maxLength(vector<string>& arr) {
-        vector<int> hash(26, 0);
-        return f(0, hash, arr, 0);
+        
+        vector<int> uniqueChar;
+        
+        for(string &s : arr)
+        {
+            unordered_set<char> st(begin(s), end(s));
+            
+            if(st.size() != s.size())
+                continue;
+            
+            int val = 0;
+            for(char &ch : s)
+                val |= (1 << (ch - 'a'));
+            
+            uniqueChar.push_back(val);
+        }
+        
+        int ans = 0;
+        f(0, 0, ans, uniqueChar);
+        
+        return ans;
     }
 };
