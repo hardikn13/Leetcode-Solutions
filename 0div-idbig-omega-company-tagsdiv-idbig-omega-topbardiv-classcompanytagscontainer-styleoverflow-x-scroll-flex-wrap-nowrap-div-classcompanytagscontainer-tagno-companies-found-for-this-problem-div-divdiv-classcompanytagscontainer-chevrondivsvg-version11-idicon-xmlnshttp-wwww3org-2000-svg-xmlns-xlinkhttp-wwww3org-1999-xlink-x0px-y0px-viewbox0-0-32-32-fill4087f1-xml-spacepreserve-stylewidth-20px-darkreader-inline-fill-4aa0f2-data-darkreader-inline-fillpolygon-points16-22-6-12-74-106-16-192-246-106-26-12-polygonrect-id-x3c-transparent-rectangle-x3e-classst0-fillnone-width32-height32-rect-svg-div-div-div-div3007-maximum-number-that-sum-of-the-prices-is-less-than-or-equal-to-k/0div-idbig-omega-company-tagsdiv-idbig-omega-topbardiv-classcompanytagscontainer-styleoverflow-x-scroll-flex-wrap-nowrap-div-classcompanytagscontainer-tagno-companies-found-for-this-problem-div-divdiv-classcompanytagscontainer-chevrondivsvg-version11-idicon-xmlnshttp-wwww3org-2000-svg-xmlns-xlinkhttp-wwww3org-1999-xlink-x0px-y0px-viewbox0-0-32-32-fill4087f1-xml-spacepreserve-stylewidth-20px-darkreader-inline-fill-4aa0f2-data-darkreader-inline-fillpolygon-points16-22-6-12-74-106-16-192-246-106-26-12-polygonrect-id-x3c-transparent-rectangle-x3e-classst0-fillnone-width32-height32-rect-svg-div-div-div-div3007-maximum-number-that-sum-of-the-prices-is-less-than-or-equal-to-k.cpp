@@ -1,43 +1,66 @@
 class Solution {
 public:
+    typedef long long ll;
+    vector<ll> bitCount;
+    
+    void getBitsCount(ll num)
+    {
+        if(num == 0)
+            return;
+        
+        if(num == 1)
+        {
+            bitCount[0] += 1;
+            return;
+        }
+        
+        if(num == 2)
+        {
+            bitCount[0] += 1;
+            bitCount[1] += 1;
+            return;
+        }
+        
+        ll bitLength = log2(num);
+        ll nearPower2 = (1ll << bitLength);
+        bitCount[bitLength] += (num - nearPower2 + 1);
+        
+        for(ll i = 0; i < bitLength; i++)
+        {
+            bitCount[i] += nearPower2 / 2;
+        }
+        
+        num = num - nearPower2;
+        getBitsCount(num);
+    }
+    
     long long findMaximumNumber(long long k, int x) {
         
-        long long l = 0, h = 1e18;
-        long long ans = 0;
+        ll left = 0;
+        ll right = 1e15;
+        ll ans = 0;
         
-        while(l <= h)
+        while(left <= right)
         {
-            long long mid = (l + h) / 2;
-            long long ctr = 0;
+            ll mid = left + (right - left) / 2;
             
-            for(long long j = 0; j <= 60; j++)
+            bitCount = vector<ll>(65, 0);
+            getBitsCount(mid);
+            
+            ll totalPrice = 0;
+            for(ll i = 0; i < log2(mid) + 1; i++)
             {
-                if((j + 1) % x == 0)
-                {
-                    long long one = 1;
-                    long long nn = (one << (j + 1));
-                    long long pack = (mid + 1) / nn;
-                    ctr += (pack * (nn / 2));
-                    
-                    if(ctr >= 1e15)
-                        break;
-                    
-                    ctr += max((long long)0, ((mid + 1) % nn) - nn / 2);
-                    
-                    if(ctr >= 1e15)
-                        break;
-                }
+                if((i + 1) % x == 0)
+                    totalPrice += bitCount[i];
             }
             
-            if(ctr <= k)
+            if(totalPrice <= k)
             {
-                l = mid + 1;
-                ans = max(ans, mid);
+                ans = mid;
+                left = mid + 1;
             }
             else
-            {
-                h = mid - 1;
-            }
+                right = mid - 1;
         }
         
         return ans;
