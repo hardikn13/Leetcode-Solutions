@@ -11,12 +11,12 @@ public:
         int notTake = f(ind + 1, v, k, dp);
         int take = (1 << v[ind].second) - 1;
         
-        if(ind + 1 < v.size() && v[ind + 1].first  - v[ind].first == k)
+        if(ind + 1 < v.size() && v[ind + 1].first - v[ind].first == k)
             take *= f(ind + 2, v, k, dp);
         else
             take *= f(ind + 1, v, k, dp);
         
-        return take + notTake;
+        return dp[ind] = take + notTake;
     }
     
     int beautifulSubsets(vector<int>& nums, int k) {
