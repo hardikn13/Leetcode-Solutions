@@ -1,12 +1,35 @@
 class Solution {
 public:
-    int subsetXORSum(vector<int>& nums) {
-        int result = 0;
-        // Capture each bit that is set in any of the elements
-        for (int num : nums) {
-            result |= num;
+    void f(const vector<int>& nums, int index, vector<int> subset,
+                         vector<vector<int>>& subsets)
+    {
+        if(index == nums.size())
+        {
+            subsets.push_back(subset);
+            return;
         }
-        // Multiply by the number of subset XOR totals that will have each bit set
-        return result << (nums.size() - 1);
+
+        subset.push_back(nums[index]);
+        f(nums, index + 1, subset, subsets);
+        subset.pop_back();
+
+        f(nums, index + 1, subset, subsets);
+    }
+    
+    int subsetXORSum(vector<int>& nums) {
+        vector<vector<int>> subsets;
+        f(nums, 0, {}, subsets);
+
+        int ans = 0;
+        for(auto it : subsets)
+        {
+            int subsetXORTotal = 0;
+            for(int num : it)
+                subsetXORTotal ^= num;
+                
+            ans += subsetXORTotal;
+        }
+
+        return ans;
     }
 };
