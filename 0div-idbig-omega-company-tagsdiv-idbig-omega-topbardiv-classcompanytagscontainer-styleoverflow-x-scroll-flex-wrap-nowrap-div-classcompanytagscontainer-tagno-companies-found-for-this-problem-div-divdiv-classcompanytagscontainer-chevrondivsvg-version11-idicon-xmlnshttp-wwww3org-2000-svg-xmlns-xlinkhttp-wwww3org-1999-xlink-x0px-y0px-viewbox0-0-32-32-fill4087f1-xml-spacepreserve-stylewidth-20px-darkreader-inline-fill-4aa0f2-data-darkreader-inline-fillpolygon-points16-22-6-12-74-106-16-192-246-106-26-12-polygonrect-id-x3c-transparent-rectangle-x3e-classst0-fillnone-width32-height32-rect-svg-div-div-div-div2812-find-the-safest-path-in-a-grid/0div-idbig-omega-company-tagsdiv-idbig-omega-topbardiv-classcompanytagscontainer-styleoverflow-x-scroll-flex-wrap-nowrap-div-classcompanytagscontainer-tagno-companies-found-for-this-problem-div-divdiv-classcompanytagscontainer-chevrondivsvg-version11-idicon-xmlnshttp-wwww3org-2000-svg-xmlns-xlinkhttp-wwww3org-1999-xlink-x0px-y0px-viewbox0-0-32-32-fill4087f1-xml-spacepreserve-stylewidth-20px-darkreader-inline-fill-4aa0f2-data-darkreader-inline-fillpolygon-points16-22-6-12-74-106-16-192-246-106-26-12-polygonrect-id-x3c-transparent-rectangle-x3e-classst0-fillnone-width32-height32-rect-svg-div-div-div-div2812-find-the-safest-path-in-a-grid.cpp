@@ -1,81 +1,110 @@
 class Solution {
 public:
-
-    int maximumSafenessFactor(vector<vector<int>>& grid) {
-        int n = grid.size();
-        queue<pair<int, int>> multiSourceQueue;
-
-        // Mark thieves as 0 and empty cells as -1, and push thieves to the queue
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    multiSourceQueue.push({i, j});
-                    grid[i][j] = 0;
-                } else {
-                    grid[i][j] = -1;
+    
+    int n, m;
+    int delRow[4] = {-1, 0, 1, 0};
+    int delCol[4] = {0, 1, 0, -1};
+    
+    bool checkSteps(vector<vector<int>> &distance, int mid)
+    {
+        queue<pair<int, int>> q0;
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        
+        q0.push({0, 0});
+        visited[0][0] = 1;
+        
+        if(distance[0][0] < mid)
+            return false;
+        
+        while(!q0.empty())
+        {
+            int r = q0.front().first;
+            int c = q0.front().second;
+            q0.pop();
+            
+            if(r == n - 1 && c == m - 1)
+                return true;
+            
+            for(int i = 0; i < 4; i++)
+            {
+                int nROW = r + delRow[i];
+                int nCOL = c + delCol[i];
+                
+                if(nROW >= 0 && nROW < n && nCOL >= 0 && nCOL < m && !visited[nROW][nCOL])
+                {
+                    if(distance[nROW][nCOL] < mid)
+                        continue;
+                    
+                    visited[nROW][nCOL] = 1;
+                    q0.push({nROW, nCOL});
                 }
             }
         }
-
-        // Calculate safeness factor for each cell using BFS
-        while (!multiSourceQueue.empty()) {
-            int size = multiSourceQueue.size();
-            while (size-- > 0) {
-                auto curr = multiSourceQueue.front();
-                multiSourceQueue.pop();
-                // Check neighboring cells
-                for (auto& d : dir) {
-                    int di = curr.first + d[0];
-                    int dj = curr.second + d[1];
-                    int val = grid[curr.first][curr.second];
-                    // Check if the neighboring cell is valid and unvisited
-                    if (isValidCell(grid, di, dj) && grid[di][dj] == -1) {
-                        grid[di][dj] = val + 1;
-                        multiSourceQueue.push({di, dj});
-                    }
-                }
-            }
-        }
-
-        // Priority queue to prioritize cells with higher safeness factor
-        priority_queue<vector<int>> pq;
-        // Push starting cell to the priority queue
-        pq.push(vector<int>{grid[0][0], 0, 0}); // [maximum_safeness_till_now, x-coordinate, y-coordinate]
-        grid[0][0] = -1; // Mark the source cell as visited
-
-        // BFS to find the path with maximum safeness factor
-        while (!pq.empty()) {
-            auto curr = pq.top();
-            pq.pop();
-
-            // If reached the destination, return safeness factor
-            if (curr[1] == n - 1 && curr[2] == n - 1) {
-                return curr[0];
-            }
-
-            // Explore neighboring cells
-            for (auto& d : dir) {
-                int di = d[0] + curr[1];
-                int dj = d[1] + curr[2];
-                if (isValidCell(grid, di, dj) && grid[di][dj] != -1) {
-                    // Update safeness factor for the path and mark the cell as visited
-                    pq.push(vector<int>{min(curr[0], grid[di][dj]), di, dj});
-                    grid[di][dj] = -1;
-                }
-            }
-        }
-
-        return -1; // No valid path found
+        
+        return false;
     }
-
-private:
-
-    // Directions for moving to neighboring cells: right, left, down, up
-    vector<vector<int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-
-    // Check if a given cell lies within the grid
-    bool isValidCell(vector<vector<int>>& mat, int i, int j) {
-        int n = mat.size();
-        return i >= 0 && j >= 0 && i < n && j < n;
+    
+    int maximumSafenessFactor(vector<vector<int>>& grid) {
+        
+        n = grid.size();
+        m = grid[0].size();
+        
+        queue<pair<int, pair<int, int>>> q;
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        vector<vector<int>> distance(n, vector<int>(m, 0));
+        
+        for(int i = 0; i < n; i++)
+        {
+            for(int j = 0; j < m; j++)
+            {
+                if(grid[i][j] == 1)
+                {
+                    q.push({0, {i, j}});
+                    vis[i][j] = 1;
+                }
+            }
+        }
+        
+        int maxStep = 0;
+        
+        while(!q.empty())
+        {
+            int steps = q.front().first;
+            int row = q.front().second.first;
+            int col = q.front().second.second;
+            q.pop();
+            
+            distance[row][col] = steps;
+            
+            for(int i = 0; i < 4; i++)
+            {
+                int nRow = row + delRow[i];
+                int nCol = col + delCol[i];
+                
+                if(nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && !vis[nRow][nCol] && grid[nRow][nCol] == 0)
+                {
+                    vis[nRow][nCol] = 1;
+                    maxStep = max(maxStep, steps + 1);
+                    q.push({steps + 1, {nRow, nCol}});
+                }
+            }
+        }
+        
+        int ans = 0;
+        int low = 0, high = maxStep + 1;
+        while(low <= high)
+        {
+            int mid = low + (high - low) / 2;
+            
+            if(checkSteps(distance, mid))
+            {
+                ans = mid;
+                low = mid + 1;
+            }
+            else
+                high = mid - 1;
+        }
+        
+        return ans;
     }
 };
