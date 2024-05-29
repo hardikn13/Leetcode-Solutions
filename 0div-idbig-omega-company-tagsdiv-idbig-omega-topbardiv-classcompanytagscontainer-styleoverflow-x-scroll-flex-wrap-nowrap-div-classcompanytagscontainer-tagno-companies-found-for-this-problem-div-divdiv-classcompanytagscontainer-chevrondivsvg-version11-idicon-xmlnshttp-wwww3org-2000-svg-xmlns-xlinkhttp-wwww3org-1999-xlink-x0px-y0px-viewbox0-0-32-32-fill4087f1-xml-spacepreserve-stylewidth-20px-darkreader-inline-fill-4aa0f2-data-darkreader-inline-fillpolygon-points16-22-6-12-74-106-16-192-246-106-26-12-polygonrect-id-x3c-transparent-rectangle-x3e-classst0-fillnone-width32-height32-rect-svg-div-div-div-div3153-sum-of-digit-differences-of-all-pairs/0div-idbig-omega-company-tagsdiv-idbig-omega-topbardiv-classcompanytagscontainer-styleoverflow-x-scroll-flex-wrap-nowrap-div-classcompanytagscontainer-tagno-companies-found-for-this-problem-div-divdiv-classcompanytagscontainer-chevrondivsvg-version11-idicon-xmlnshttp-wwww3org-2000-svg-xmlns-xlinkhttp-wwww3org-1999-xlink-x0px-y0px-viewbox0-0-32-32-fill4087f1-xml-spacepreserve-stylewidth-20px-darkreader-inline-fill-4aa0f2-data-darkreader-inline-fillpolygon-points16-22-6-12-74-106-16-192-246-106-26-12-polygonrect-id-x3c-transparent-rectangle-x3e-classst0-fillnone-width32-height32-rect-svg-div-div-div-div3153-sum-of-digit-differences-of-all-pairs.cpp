@@ -4,8 +4,6 @@ public:
         
         int n = nums.size();
         vector<vector<int>> digits(n);
-        int cnt = 0;
-        bool flag = true;
         
         for(int i = 0; i < n; i++)
         {
@@ -15,14 +13,10 @@ public:
             {
                 digits[i].push_back(num % 10);
                 num /= 10;
-                
-                if(flag)
-                    cnt++;
             }
-            
-            flag = false;
         }
         
+        int cnt = digits[0].size();
         long long ans = 0;
         for(int i = 0; i < cnt; i++)
         {
