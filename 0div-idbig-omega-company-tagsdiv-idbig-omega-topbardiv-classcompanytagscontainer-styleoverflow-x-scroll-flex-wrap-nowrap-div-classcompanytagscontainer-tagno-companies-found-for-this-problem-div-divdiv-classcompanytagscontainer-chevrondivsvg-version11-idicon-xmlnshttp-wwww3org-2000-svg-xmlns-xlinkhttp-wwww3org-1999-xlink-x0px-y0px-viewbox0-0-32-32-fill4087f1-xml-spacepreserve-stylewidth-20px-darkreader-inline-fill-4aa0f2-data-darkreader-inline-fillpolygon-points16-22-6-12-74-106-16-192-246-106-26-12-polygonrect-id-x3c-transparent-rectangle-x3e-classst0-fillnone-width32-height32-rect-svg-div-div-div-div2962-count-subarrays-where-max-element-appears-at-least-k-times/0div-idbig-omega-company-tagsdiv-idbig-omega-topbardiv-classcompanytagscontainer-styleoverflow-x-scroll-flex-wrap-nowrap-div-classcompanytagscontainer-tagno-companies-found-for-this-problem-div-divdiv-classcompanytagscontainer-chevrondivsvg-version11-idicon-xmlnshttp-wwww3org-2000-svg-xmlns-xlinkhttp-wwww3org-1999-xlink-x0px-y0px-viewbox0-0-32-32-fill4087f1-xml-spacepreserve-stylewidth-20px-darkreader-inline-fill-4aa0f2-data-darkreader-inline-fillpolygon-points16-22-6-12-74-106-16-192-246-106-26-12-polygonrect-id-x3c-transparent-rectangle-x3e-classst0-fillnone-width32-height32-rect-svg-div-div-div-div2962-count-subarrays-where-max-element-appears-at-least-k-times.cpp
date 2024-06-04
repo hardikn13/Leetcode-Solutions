@@ -5,17 +5,20 @@ public:
         long long ans = 0, start = 0;
 
         for (int end = 0; end < nums.size(); end++) {
-            if (nums[end] == maxElement) {
+            if(nums[end] == maxElement)
                 k--;
-            }
-            while (!k) {
-                if (nums[start] == maxElement) {
+                
+            while(k == 0)
+            {
+                if(nums[start] == maxElement)
                     k++;
-                }
+                
                 start++;
             }
+            
             ans += start;
         }
+        
         return ans;
     }
 };
