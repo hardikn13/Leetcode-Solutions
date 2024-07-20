@@ -1,46 +1,101 @@
 class BrowserHistory {
 public:
-    stack<string> bwd;
-    stack<string> fwd;
+    class Node {
+        public:
+            string url;
+            Node* prev = NULL;
+            Node* next = NULL;
+            
+            Node(string url)
+            {
+                this -> url = url;
+            }
+    };
+
+    Node* curr;
+
     BrowserHistory(string homepage) {
-        bwd.push(homepage);
+        curr = new Node(homepage);
     }
     
     void visit(string url) {
-        while(!fwd.empty())
-            fwd.pop();
-        bwd.push(url);
+        Node* add = new Node(url);
+        curr -> next = add;
+        add -> prev = curr;
+        curr = add;
     }
     
     string back(int steps) {
-        
-        while(bwd.size() > 1 && steps > 0)
+        while(steps)
         {
-            fwd.push(bwd.top());
-            bwd.pop();
+            if(curr -> prev != NULL)
+                curr = curr -> prev;
+            else
+                break;
+
             steps--;
         }
 
-        return bwd.top();
+        return curr -> url;
     }
     
     string forward(int steps) {
-
-        while(!fwd.empty() && steps > 0)
+        while(steps)
         {
-            bwd.push(fwd.top());
-            fwd.pop();
+            if(curr -> next != NULL)
+                curr = curr -> next;
+            else
+                break;
+
             steps--;
         }
 
-        return bwd.top();
+        return curr -> url;
     }
 };
 
-/**
- * Your BrowserHistory object will be instantiated and called as such:
- * BrowserHistory* obj = new BrowserHistory(homepage);
- * obj->visit(url);
- * string param_2 = obj->back(steps);
- * string param_3 = obj->forward(steps);
- */
+
+
+
+
+// ANOTHER APPROACH
+// ----------------
+
+// class BrowserHistory {
+// public:
+//     stack<string> bwd;
+//     stack<string> fwd;
+//     BrowserHistory(string homepage) {
+//         bwd.push(homepage);
+//     }
+    
+//     void visit(string url) {
+//         while(!fwd.empty())
+//             fwd.pop();
+//         bwd.push(url);
+//     }
+    
+//     string back(int steps) {
+        
+//         while(bwd.size() > 1 && steps > 0)
+//         {
+//             fwd.push(bwd.top());
+//             bwd.pop();
+//             steps--;
+//         }
+
+//         return bwd.top();
+//     }
+    
+//     string forward(int steps) {
+
+//         while(!fwd.empty() && steps > 0)
+//         {
+//             bwd.push(fwd.top());
+//             fwd.pop();
+//             steps--;
+//         }
+
+//         return bwd.top();
+//     }
+// };
