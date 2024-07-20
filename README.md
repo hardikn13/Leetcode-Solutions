@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -51,5 +52,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
