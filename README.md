@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Matrix
 |  |
 | ------- |
@@ -26,12 +27,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
