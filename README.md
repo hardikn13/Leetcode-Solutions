@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [1135-customers-who-bought-all-products](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1161-project-employees-i) |
