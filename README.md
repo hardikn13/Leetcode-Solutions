@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1135-customers-who-bought-all-products) |
