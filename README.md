@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
