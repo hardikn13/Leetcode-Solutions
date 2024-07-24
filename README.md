@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
