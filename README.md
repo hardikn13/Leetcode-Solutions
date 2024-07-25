@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
