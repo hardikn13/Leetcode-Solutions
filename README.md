@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -215,4 +216,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Tree
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
