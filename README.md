@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Prefix Sum
