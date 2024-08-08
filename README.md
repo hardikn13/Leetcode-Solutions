@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
