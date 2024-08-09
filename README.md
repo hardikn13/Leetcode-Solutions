@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -224,11 +225,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Counting
