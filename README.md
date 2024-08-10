@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -331,4 +332,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
