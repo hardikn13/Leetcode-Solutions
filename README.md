@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0371-sum-of-two-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 ## Shortest Path
@@ -327,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 ## Divide and Conquer
 |  |
