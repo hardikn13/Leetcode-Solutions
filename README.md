@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
@@ -343,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
