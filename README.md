@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 ## Greedy
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -327,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Counting
 |  |
@@ -385,4 +390,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
