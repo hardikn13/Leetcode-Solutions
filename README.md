@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Memoization
 |  |
 | ------- |
