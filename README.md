@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
+| [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
