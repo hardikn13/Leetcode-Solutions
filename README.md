@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
