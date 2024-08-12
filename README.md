@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
