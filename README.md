@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
