@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Ordered Set
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
