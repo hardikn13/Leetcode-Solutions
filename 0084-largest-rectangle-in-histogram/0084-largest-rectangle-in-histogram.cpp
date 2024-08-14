@@ -1,64 +1,29 @@
 class Solution {
-
-    private:
-    
-        vector<int> nextSmallerElement(vector<int> arr, int n)
-        {
-            stack<int> stk;
-            stk.push(-1);
-            vector<int> ans(n);
-            for(int i = n-1; i >= 0; i--)
-            {
-                while(stk.top() != -1 && arr[stk.top()] >= arr[i])
-                {
-                    stk.pop();
-                }
-                ans[i] = stk.top();
-                stk.push(i);
-            }
-            return ans;
-        }
-    
-        vector<int> prevSmallerElement(vector<int> arr, int n)
-        {
-            stack<int> stk;
-            stk.push(-1);
-            vector<int> ans(n);
-            for(int i = 0; i < n; i++)
-            {
-                while(stk.top() != -1 && arr[stk.top()] >= arr[i])
-                {
-                    stk.pop();
-                }
-                ans[i] = stk.top();
-                stk.push(i);
-            }
-            return ans;
-        }
-    
-    
-    public:
+public:
     int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size(), max = 0;
-        vector<int> next(n);
-        next = nextSmallerElement(heights, n);
-        vector<int> prev(n);
-        prev = prevSmallerElement(heights, n);
+        int n = heights.size();
+        stack<int> st;
+        int maxArea = 0;
         
-        for(int i = 0; i < n; i++)
+        for(int i = 0; i <= n; i++)
         {
-            int l = heights[i];
-            if(next[i] == -1)
+            while(!st.empty() && (i == n || heights[st.top()] >= heights[i]))
             {
-                next[i] = n;
+                int currHeight = heights[st.top()];
+                st.pop();
+
+                int width;
+                if(st.empty())
+                    width = i;
+                else
+                    width = i - st.top() - 1;
+
+                maxArea = max(maxArea, currHeight * width);
             }
-            int b = next[i] - prev[i] - 1;
-            int area = l * b;
-            if(area > max)
-            {
-                max = area;
-            }
+
+            st.push(i);
         }
-        return max;
+
+        return maxArea;
     }
 };
