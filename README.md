@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -225,10 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Monotonic Stack
 |  |
@@ -353,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -417,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
