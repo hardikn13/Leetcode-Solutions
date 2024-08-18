@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
