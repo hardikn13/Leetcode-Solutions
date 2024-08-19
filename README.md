@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -486,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
