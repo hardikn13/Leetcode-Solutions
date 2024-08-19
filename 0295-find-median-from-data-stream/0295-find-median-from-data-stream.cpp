@@ -1,85 +1,34 @@
 class MedianFinder {
 public:
-    
-    priority_queue<int> maxHeap;
-    priority_queue<int, vector<int>, greater<int>> minHeap;
-    double median=0;
-
-    int signum(int a, int b)
-    {
-        if(a==b)
-            return 0;
-
-        else if(a>b)
-            return 1;
-
-        else
-            return -1;        
-    }
-    
+    priority_queue<int> left_max_heap;
+    priority_queue<int, vector<int>, greater<int>> right_min_heap;
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        switch(signum(maxHeap.size(), minHeap.size()))
+        if(left_max_heap.empty() || num < left_max_heap.top())
+            left_max_heap.push(num);
+        else
+            right_min_heap.push(num);
+        
+        
+        if(abs((int)left_max_heap.size() - (int)right_min_heap.size()) > 1)
         {
-            case 0:
-                    if(num > median)
-                    {
-                        minHeap.push(num);
-                        median=minHeap.top();
-                    }
-                    else
-                    {
-                        maxHeap.push(num);
-                        median=maxHeap.top();
-                    }
-
-                    break;
-
-            case 1: 
-                    if(num > median)
-                    {
-                        minHeap.push(num);
-                        median=((double)minHeap.top() + (double)maxHeap.top())/2.0;
-                    }    
-                    else
-                    {
-                        minHeap.push(maxHeap.top());
-                        maxHeap.pop();
-                        maxHeap.push(num);
-                        median=((double)minHeap.top() + (double)maxHeap.top())/2.0;
-                    }    
-
-                    break;
-
-            case -1:
-                    if(num > median)
-                    {
-                        maxHeap.push(minHeap.top());
-                        minHeap.pop();
-                        minHeap.push(num);
-                        median=((double)minHeap.top() + (double)maxHeap.top())/2.0;
-                    }        
-                    else
-                    {
-                        maxHeap.push(num);
-                        median=((double)minHeap.top() + (double)maxHeap.top())/2.0;
-                    }
-
-                    break;
+            right_min_heap.push(left_max_heap.top());
+            left_max_heap.pop();
+        }
+        else if(left_max_heap.size() < right_min_heap.size())
+        {
+            left_max_heap.push(right_min_heap.top());
+            right_min_heap.pop();
         }
     }
     
     double findMedian() {
-        return median;
+        if(left_max_heap.size() == right_min_heap.size())
+            return (double)(left_max_heap.top() + right_min_heap.top()) / 2;
+        
+        return left_max_heap.top();
     }
 };
-
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder* obj = new MedianFinder();
- * obj->addNum(num);
- * double param_2 = obj->findMedian();
- */
