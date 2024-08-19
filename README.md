@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0969-number-of-recent-calls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2161-stock-price-fluctuation) |
 ## Doubly-Linked List
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Counting
 |  |
