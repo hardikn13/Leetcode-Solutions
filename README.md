@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
