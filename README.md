@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Ordered Set
 |  |
