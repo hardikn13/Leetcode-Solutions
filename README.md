@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
