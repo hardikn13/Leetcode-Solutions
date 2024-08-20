@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Bit Manipulation
 |  |
