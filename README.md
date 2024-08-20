@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Monotonic Stack
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
@@ -487,12 +489,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -544,4 +548,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
