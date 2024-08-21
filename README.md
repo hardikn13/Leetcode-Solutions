@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0546-remove-boxes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0546-remove-boxes) |
 | [0650-2-keys-keyboard](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
