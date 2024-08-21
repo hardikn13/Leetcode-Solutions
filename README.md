@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0815-champagne-tower](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0815-champagne-tower) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
