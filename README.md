@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1466-jump-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
