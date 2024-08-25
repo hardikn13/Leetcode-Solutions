@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
