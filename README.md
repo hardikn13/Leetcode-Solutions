@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
