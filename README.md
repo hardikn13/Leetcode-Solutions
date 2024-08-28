@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1696-strange-printer-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1696-strange-printer-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
+| [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -587,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
