@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0772-construct-quad-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
