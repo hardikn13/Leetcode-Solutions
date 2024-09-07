@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1484-linked-list-in-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1484-linked-list-in-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1484-linked-list-in-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
@@ -553,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [1484-linked-list-in-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
