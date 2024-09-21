@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 ## Queue
 |  |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0617-merge-two-binary-trees](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
