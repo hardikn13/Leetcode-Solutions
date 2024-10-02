@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1042-minimum-cost-to-merge-stones](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+| [1256-rank-transform-of-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+| [1256-rank-transform-of-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1256-rank-transform-of-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1466-jump-game-v](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1466-jump-game-v) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
