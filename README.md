@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
