@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Ordered Set
@@ -469,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Sliding Window
 |  |
@@ -679,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
 | [2161-stock-price-fluctuation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2161-stock-price-fluctuation) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
 |  |
