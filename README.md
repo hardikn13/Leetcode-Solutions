@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0546-remove-boxes) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0772-construct-quad-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0460-lfu-cache) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0677-map-sum-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0870-magic-squares-in-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -483,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -680,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0355-design-twitter) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1814-jump-game-vi](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1814-jump-game-vi) |
