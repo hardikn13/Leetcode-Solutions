@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2478-longest-nice-subarray](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2478-longest-nice-subarray](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2478-longest-nice-subarray](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
