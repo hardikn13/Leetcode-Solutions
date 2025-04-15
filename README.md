@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [2161-stock-price-fluctuation](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2161-stock-price-fluctuation) |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2530-minimize-maximum-of-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Counting
@@ -678,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0772-construct-quad-tree](https://github.com/hardikn13/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -741,4 +745,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hardikn13/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hardikn13/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
